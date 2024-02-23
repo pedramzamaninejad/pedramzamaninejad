@@ -18,7 +18,7 @@ Hey there! 👋 I'm Pedram Zamaninejad, a 20-year-old aspiring programmer determ
 - 📚 As a first-year university student, I'm excited to explore the endless possibilities that the world of programming offers.
 - ✈️ When I'm not coding, you can find me daydreaming about my next adventure or exploring new corners of the internet for programming inspiration.
 
-* Skills *: Python, Django, Django Rest Framework, Flask
+** Skills **: Python, Django, Django Rest Framework, Flask
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedramzamaninejad&theme=buefy)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedramzamaninejad&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
