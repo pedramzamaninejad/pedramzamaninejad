@@ -1,5 +1,4 @@
-## ```python
-  print('Hi there 👋, This is Pedram Zamananinejad')```
+## ```python print('Hi there 👋, This is Pedram Zamananinejad')```
   
 ### Django developer
 
