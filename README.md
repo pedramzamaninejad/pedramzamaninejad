@@ -18,9 +18,9 @@ Hey there! 👋 I'm Pedram Zamaninejad, a 20-year-old aspiring programmer determ
 *Skills*: Python, Django, Django Rest Framework, Flask
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedramzamaninejad&theme=buefy)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedramzamaninejad&show_icons=true&theme=buefy#gh-light-mode-only)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedramzamaninejad&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedramzamaninejad&theme=onedark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedramzamaninejad&show_icons=true&theme=onedark#gh-dark-mode-only)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedramzamaninejad&show_icons=true&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedramzamaninejad#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedram-zamaninajead/#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedram.zamaninejad/#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Pedram138#gh-light-mode-only)  
